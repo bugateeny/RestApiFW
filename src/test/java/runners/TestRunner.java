@@ -5,7 +5,7 @@ import io.cucumber.junit.CucumberOptions;
 import org.junit.runner.RunWith;
 
 import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
-//99999
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = {"src/main/resources/features"},
